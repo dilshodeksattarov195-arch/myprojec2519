@@ -1,0 +1,8 @@
+body { background: #1340ba; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 50px; display: flex; }
+.block-email-0 { color: #d1122a; font-size: 12px; margin-bottom: 5px; }
+.block-cache-1 { color: #4c9db0; font-size: 12px; margin-bottom: 5px; }
+.block-router-2 { color: #6f5e5b; font-size: 21px; margin-bottom: 5px; }
+.block-shipping-3 { color: #c29f08; font-size: 13px; margin-bottom: 5px; }
+.block-metrics-4 { color: #daac71; font-size: 18px; margin-bottom: 5px; }
+.block-uploader-5 { color: #db1b6; font-size: 19px; margin-bottom: 5px; }
